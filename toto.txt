@@ -1,4 +1,4 @@
-<<<<<<< HEAD
-=======
+
+
 une connerie
->>>>>>> parent of b991bb6... modification
+
